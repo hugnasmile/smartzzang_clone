@@ -218,6 +218,9 @@ header nav .drop-down ul li a:hover {
   background-position: left;
   background-position-x: 20%;
 }
+.banner .swiper-slide .swiper-button-prev, .swiper-button-next{
+  color: white;
+}
 .banner .swiper-wrapper .slide1 {
   background-image: url("img/visual1.jpg");
 }
